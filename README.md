@@ -1,7 +1,10 @@
 # 💬 Realtime Chat
 
 A simple, real-time chat web app built with **Node.js**, **Express**, and **Socket.IO**. Multiple people can join from different browser tabs/devices and message each other instantly — no page refresh needed.
-![Screenshot](./screenshot.png)
+
+## Output
+
+![Output Screenshot](./Screenshot.png)
 ## Features
 
 - Real-time messaging powered by WebSockets (Socket.IO)
